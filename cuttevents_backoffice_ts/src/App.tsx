@@ -1,8 +1,8 @@
+import ListOfProjects from "./screens/ListOfProjects";
 function App() {
   return (
     <div>
-      CUTT/events backoffice in Typescript, using TDD, and styled components
-      with tailwindcss
+      <ListOfProjects />
     </div>
   );
 }
